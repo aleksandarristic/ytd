@@ -1,5 +1,6 @@
 # YTD
-A dead-simple yt-dlp cli
+A dead-simple yt-dlp cli for nodejs.
+This is a rewrite of my own python script, done as a nodejs exercise.
 
 ## Installation
 ```shell
